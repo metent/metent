@@ -7,7 +7,7 @@ I create software.
 
 ## Projects
 
-- *uair* | [GitHub](https://github.com/metent/uair).: An extensible pomodoro timer for UNIX-like operting systems. Although, it is suited for keyboard-oriented workflows, it can even be used with a GUI interface with some configuration. It is lightweight and efficient by relying on concurrency instead of threads.
+- *uair* | [GitHub](https://github.com/metent/uair).: An extensible pomodoro timer for UNIX-like operating systems. Although, it is suited for keyboard-oriented workflows, it can even be used with a GUI interface with some configuration. It is lightweight and efficient by relying on concurrency instead of threads.
 - *tack* | [GitHub](https://github.com/metent/tack).: A multitree-based heirarchical task manager app written in dart with flutter. Heirarchical task management allows very long tasks to be broken down into smaller and smaller subtasks and hence is also suitable for long-term planning. Multitrees allows two or more tasks to share a single subtask.
 - *TinyCPU* | [GitLab](https://gitlab.com/rishbh/tinycpu): This is an attempt at constructing and simulating a very simple 16-bit computer which is inspired by MIPS and Intel 8086 architecture. It has a RISC based instruction set. Simulation is performed on Digital, a digital circuit simulator. Additionally, a custom assembler has been written in Zig language for convenience.
 - *SlackOS* | [GitLab](https://gitlab.com/rishbh/slackos): A 64-bit kernel plus bootloader for the x86 architecture. It is written in C and assembly language. Bootloader and ISRs are written in assembly(NASM) and the rest is written in C. A shell has been written for implementing some basic commands.
